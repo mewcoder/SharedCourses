@@ -12,6 +12,10 @@
 排名不分前后
  
 浙江大学课程攻略共享计划 | [访问地址](https://qsctech.github.io/zju-icicles/) 
+北京大学课程攻略共享计划 | [访问地址](https://lib-pku.github.io ) 
+中国科学技术大学课程攻略共享计划 | [访问地址](https://ustc-resource.github.io/USTC-Course) 
+上海交通大学课程攻略共享计划 | [访问地址](https://github.com/CoolPhilChen/SJTU-Courses/) 
+清华大学课程（计算机）攻略共享计划 | [访问地址](https://github.com/PKUanonym/REKCARC-TSC-UHT) 
 
 
 
