@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# [实用网站整理](https://ctrlcoder.github.io/UsefulWebSites/)  -20190521更新
+![UsefulWebSites](https://i.loli.net/2019/04/02/5ca3645b69391.png)
 
-You can use the [editor on GitHub](https://github.com/ctrlcoder/SharedCourses/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 办公工具类
 
-### Markdown
+[UZER.ME](https://uzer.me/) | 云端的办公软件库，随时使用各种应用
+[MikuTools](https://miku.tools/) | 一个轻量的工具合集
+[好工具网](http://www.nicetool.net/) | 致力于收集打造各种简单易用在线工具，网友无需注册和下载安装即可使用
+[OCRMaker](http://www.ocrmaker.com/) | 免费在线文字识别，文字提取，OCR服务
+[无错字](https://wucuozi.com/demo/) | 错别字检测
+[BccTo.ME](https://bccto.me/) | 10分钟临时邮箱
+[云短信](https://www.pdflibr.com/) | 在线短信接收
+[logomakr](https://logomakr.com/) | Create your own logo in minutes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ctrlcoder/SharedCourses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![UsefulWebSites](https://i.loli.net/2019/05/21/5ce3868cd133646786.png)
