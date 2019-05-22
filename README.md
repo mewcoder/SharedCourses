@@ -5,7 +5,7 @@
 
 ## 办公工具类
 
- 浙江大学课程攻略共享计划 | [](https://qsctech.github.io/zju-icicles/) 
+ 浙江大学课程攻略共享计划 | [地址](https://qsctech.github.io/zju-icicles/) 
 
 
 
