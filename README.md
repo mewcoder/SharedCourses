@@ -8,9 +8,10 @@
 
 ---
 
- ### 整理
+### 整理 
+排名不分前后
  
- 浙江大学课程攻略共享计划 | [访问地址](https://qsctech.github.io/zju-icicles/) 
+浙江大学课程攻略共享计划 | [访问地址](https://qsctech.github.io/zju-icicles/) 
 
 
 
