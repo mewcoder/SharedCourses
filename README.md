@@ -1,4 +1,4 @@
-# [大学课程共享计划整理](https://ctrlcoder.xyz/SharedCourses/)  
+# [大学课程共享计划整理](https://ctrlcoder.github.io/SharedCourses/)  
 ![SharedCourses](https://i.loli.net/2019/05/22/5ce4a722713b648959.png)
 
 ---
