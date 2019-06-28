@@ -1,0 +1,5 @@
+*.yml linguist-language=html 
+*.html linguist-language=html 
+*.js linguist-language=html 
+*.xml linguist-language=html 
+*.css linguist-language=html 
