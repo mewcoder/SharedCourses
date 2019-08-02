@@ -24,7 +24,7 @@
 | 广东工业大学计算机学院课程攻略 | [访问地址](https://github\.com/brenner8023/gdut\-course)              |
 | 北京林业大学信息学院课程攻略  | [访问地址](https://github\.com/bljx/BFU\-leaf)                        |
 | 武汉大学课程资料整理      | [访问地址](https://github\.com/openwhu/OpenWHU)                       |
-
+| 广西大学课程资料整理      | [访问地址](https://github.com/fishcf/GXU-Courses)                     |
 
 
 排名不分前后，未完待续
