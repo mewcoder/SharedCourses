@@ -13,9 +13,10 @@
  
 | 课程    | 地址                 |
 |-----------------|-----------------------------------------------------------------------|
-| 浙江大学课程攻略共享计划    | [访问地址](https://qsctech\.github\.io/zju\-icicles)                 |
-| 北京大学课程资料民间整理    | [访问地址](https://lib\-pku\.github\.io)                             |
 | 清华大学计算机系课程攻略    | [访问地址](https://github\.com/PKUanonym/REKCARC\-TSC\-UHT)           |
+| 北京大学课程资料民间整理    | [访问地址](https://lib\-pku\.github\.io)                             |
+| 浙江大学课程攻略共享计划    | [访问地址](https://qsctech\.github\.io/zju\-icicles)                 |
+| 复旦大学课程资源   | [访问地址](https://github.com/openFudan/fudan-coursera)           |
 | 中国科学技术大学课程资源    | [访问地址](https://ustc\-resource\.github\.io/USTC\-Course)           |
 | 上海交通大学课程资料分享    | [访问地址](https://github\.com/CoolPhilChen/SJTU\-Courses)           |
 | 东南大学课程共享计划      | [访问地址](https://github\.com/zjdx1998/seucourseshare)               |
